@@ -1,6 +1,3 @@
-# Portfolio
-Check it out here: https://gauravsumanportfolio.netlify.app/
-# Portfolio
-# Portfolio
-# Portfolio
+Check it out here: https://gvsn138.netlify.app
+
 # portfolio-gvsn
